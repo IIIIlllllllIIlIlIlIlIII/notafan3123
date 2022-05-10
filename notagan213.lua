@@ -52,6 +52,6 @@ end
 
 
 if getgenv().ServerHop == true then
-wait (1500)
+wait (1400)
 game:GetService("TeleportService"):Teleport(648362523, LocalPlayer)
 end
